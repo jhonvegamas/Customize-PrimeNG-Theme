@@ -18,7 +18,7 @@ Angular is a development platform for building mobile and desktop web applicatio
 [![npm version](https://badge.fury.io/js/primeng.svg)](https://badge.fury.io/js/primeng)
 [![Build Status](https://travis-ci.org/primefaces/primeng.svg?branch=master)](https://travis-ci.org/primefaces/primeng)
 
-<img title="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg" height="100">
+<a href="https://angular.io/"><img title="Angular" src="https://angular.io/assets/images/logos/angular/angular.svg" height="100"></a>
 
 
 ### PrimeNG V8
@@ -29,7 +29,7 @@ See [PrimeNG homepage](http://www.primefaces.org/primeng) for live showcase and 
 
 See [PrimeNG on GitHub](https://github.com/primefaces/primeng)
 
-<img title="PrimeNG" src="https://www.primefaces.org/wp-content/uploads/2018/05/primeng-sidebar.svg" height="100">
+<a href="https://www.primefaces.org/primeng/"><img title="PrimeNG" src="https://www.primefaces.org/wp-content/uploads/2018/05/primeng-sidebar.svg" height="100"></a>
 
 
 # Instructions
